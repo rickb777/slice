@@ -1,6 +1,6 @@
 package slice
 
-import "github.com/clipperhouse/typewriter"
+import "github.com/rickb777/typewriter"
 
 var each = &typewriter.Template{
 	Name: "Each",

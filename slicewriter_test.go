@@ -7,7 +7,7 @@ import (
 	"go/token"
 	"testing"
 
-	"github.com/clipperhouse/typewriter"
+	"github.com/rickb777/typewriter"
 )
 
 var pkg *typewriter.Package

@@ -1,6 +1,6 @@
 package slice
 
-import "github.com/clipperhouse/typewriter"
+import "github.com/rickb777/typewriter"
 
 var average = &typewriter.Template{
 	Name: "Average",
